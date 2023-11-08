@@ -1,0 +1,9 @@
+train: C:\Users\admin\OneDrive\Documents\GitHub\Other\biotech-oil-spills-2023\datasets\Oil Spills Dataset\images\train
+val: C:\Users\admin\OneDrive\Documents\GitHub\Other\biotech-oil-spills-2023\datasets\Oil Spills Dataset\images\val
+test: C:\Users\admin\OneDrive\Documents\GitHub\Other\biotech-oil-spills-2023\datasets\Oil Spills Dataset\images\test
+
+# number of classes
+nc: 1
+
+# class names
+names: ["Oil spill"]
