@@ -1,9 +1,0 @@
-train: Oil Spills Dataset/obj_train_data/train
-val: Oil Spills Dataset/obj_train_data/val
-test: Oil Spills Dataset/obj_train_data/test
-
-# number of classes
-nc: 1
-
-# class names
-names: ["Oil spill"]
